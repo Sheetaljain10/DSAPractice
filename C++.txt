@@ -1,0 +1,3 @@
+To find any non - repeated / non-common element prefer XOR operation: p=0; p=p^i;
+vector.erase(startindex,end)
+vector changes at each iterations.
